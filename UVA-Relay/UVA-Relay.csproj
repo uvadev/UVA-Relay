@@ -41,16 +41,16 @@
           <HintPath>..\packages\dotenv.net.1.0.4\lib\netstandard2.0\dotenv.net.dll</HintPath>
           <Private>True</Private>
         </Reference>
-        <Reference Include="DSharpPlus, Version=4.2.0.1024, Culture=neutral, PublicKeyToken=null">
-          <HintPath>..\packages\DSharpPlus.4.2.0-nightly-01024\lib\netstandard2.0\DSharpPlus.dll</HintPath>
+        <Reference Include="DSharpPlus, Version=5.0.0.1935, Culture=neutral, PublicKeyToken=null">
+          <HintPath>..\packages\DSharpPlus.5.0.0-nightly-01935\lib\netstandard2.0\DSharpPlus.dll</HintPath>
           <Private>True</Private>
         </Reference>
-        <Reference Include="DSharpPlus.Interactivity, Version=4.2.0.1024, Culture=neutral, PublicKeyToken=null">
-          <HintPath>..\packages\DSharpPlus.Interactivity.4.2.0-nightly-01024\lib\netstandard2.0\DSharpPlus.Interactivity.dll</HintPath>
+        <Reference Include="DSharpPlus.Interactivity, Version=5.0.0.1935, Culture=neutral, PublicKeyToken=null">
+          <HintPath>..\packages\DSharpPlus.Interactivity.5.0.0-nightly-01935\lib\netstandard2.0\DSharpPlus.Interactivity.dll</HintPath>
           <Private>True</Private>
         </Reference>
-        <Reference Include="DSharpPlus.SlashCommands, Version=4.2.0.1024, Culture=neutral, PublicKeyToken=null">
-          <HintPath>..\packages\DSharpPlus.SlashCommands.4.2.0-nightly-01024\lib\netstandard2.0\DSharpPlus.SlashCommands.dll</HintPath>
+        <Reference Include="DSharpPlus.SlashCommands, Version=5.0.0.1935, Culture=neutral, PublicKeyToken=null">
+          <HintPath>..\packages\DSharpPlus.SlashCommands.5.0.0-nightly-01935\lib\netstandard2.0\DSharpPlus.SlashCommands.dll</HintPath>
           <Private>True</Private>
         </Reference>
         <Reference Include="Emzi0767.Common, Version=2.6.2.0, Culture=neutral, PublicKeyToken=null">
@@ -201,7 +201,7 @@
         </Reference>
         <Reference Include="System.Xml" />
         <Reference Include="UVACanvasAccess, Version=1.0.7746.8636, Culture=neutral, PublicKeyToken=null">
-          <HintPath>..\packages\UVACanvasAccess.1.1.1-build1615956468\lib\net472\UVACanvasAccess.exe</HintPath>
+          <HintPath>..\packages\UVACanvasAccess.1.1.24-build1698358805\lib\net472\UVACanvasAccess.exe</HintPath>
           <Private>True</Private>
         </Reference>
     </ItemGroup>
